@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(blue,cyan);
+    
+}
+
+p{
+color: red;
+
+}
+
+h1{
+    text-align: center;
+    size: 400px;
+    color: yellow;
+}
+
+
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 30%;
+}
+label {
+    display: block;
+    width: 2500px; 
+  }
+
+  .myInput{
+    width: 200px;
+    height: 23px;
+  }
+  .myInput1{
+    width: 200px;
+    height: 23px;
+  }
